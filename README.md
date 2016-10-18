@@ -1,4 +1,4 @@
-# Hello-Wold
+# Hello-World
 My First Repository
 I am new to github.
 I love to code.
